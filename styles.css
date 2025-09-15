@@ -26,6 +26,7 @@ aside{
     background: linear-gradient(to bottom, #FDFAAA, #5BBB77);
     width: 20%;
     height: 630px;
+    margin:1%;
 }
 footer{
     background-color: #5BBB77;
@@ -70,4 +71,5 @@ table tr:nth-child(odd):not(:first-child) {
 
 table tr:first-child {
     background-color: #5BBB77;
+
 }
